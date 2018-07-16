@@ -16,7 +16,7 @@
                 <version>0.9.6</version>
                 <configuration>
                     <to>
-                        <image>registry.hub.docker.com/craftcodecrew/jibdemo</image>
+                        <image>registry.hub.docker.com/your-repository/jibdemo</image>
                         <credHelper>wincred</credHelper>
                     </to>
                     <container>
